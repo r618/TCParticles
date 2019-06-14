@@ -1,5 +1,8 @@
-//Include tc particles frammework code
-#include "Packages/com.akb.tcparticles/Resources/TCFramework.cginc"
+// what was this supposed to mean ?
+// #include "Packages/com.akb.tcparticles/Resources/TCFramework.cginc"
+// and what is this supposed to mean ?
+// well I know what it's supposed to mean, but isn't there a better way to include cginc ?
+#include "Assets/Plugins/TCParticles/Resources/TCFramework.cginc"
 
 //Kernels we can call from script
 #pragma kernel WriteInitialPos
